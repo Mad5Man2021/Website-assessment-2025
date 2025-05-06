@@ -1,1 +1,23 @@
-Just making my website my dude
+/TipToeSoles
+    /images
+        logo.png
+        comfort1.jpg
+        dailywear1.jpg
+        comfort2.jpg
+        dailywear2.jpg
+        comfort3.jpg
+        dailywear3.jpg
+    index.html
+    about.html
+    contact.html
+    products.html
+    comfort.html
+    dailywear.html
+    shipping.html
+    returns.html
+    login.html
+    returnpolicies.html
+    exchangepolicies.html
+    deliverypolicies.html
+    styles.css
+    scripts.js
